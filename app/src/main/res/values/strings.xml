@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Повулчимка</string>
+    <string name="facebook_app_id">597213610728464</string>
+    <string name="fb_login_protocol_scheme">fb597213610728464</string>
+
+    <string name="s_1">Привет! Спасибо что установил наше приложение на свой Смартфон!\nЛучшие игровые автоматы ждут тебя! Вперед к большим выигрышам!</string>
+    <string name="s_2">Какой удачный день! Наверно сегодня твой день!\nЗаходи в приложение и испытай свою удачу сегодня! Вперед к большим выигрышам!</string>
+    <string name="s_3">Хороший день для больших побед!\nЛучшие игровые автоматы ждут тебя, счастливчик! Забери свой выигрыш!</string>
+    <string name="s_4">Заходи в гости, время покрутить слоты!\nСегодня на всех игровых Автоматах Ооочень большой Джекпот, СОРВИ его!</string>
+    <string name="s_5">Ты же знаешь чего хочешь!\nСегодня очень хороший день для Больших Выигрышей! Вперед за победой!</string>
+    <string name="s_6">Время побеждать, товарищ счастливчик!\nЛучшие игровые автоматы ждут тебя и именно ты должен победить сегодня!</string>
+    <string name="s_7">Хороший день для больших побед!\nЛучшие игровые автоматы ждут тебя, счастливчик! Забери свой выигрыш!</string>
+
+    <string name="title_activity_login">заходи</string>
+    <string name="prompt_email">мыол</string>
+    <string name="prompt_password">пароль</string>
+    <string name="action_sign_in">регистрация</string>
+    <string name="action_sign_in_short">вход</string>
+    <string name="welcome">велкам</string>
+    <string name="invalid_username">не правильный юрез</string>
+    <string name="invalid_password">пароль опять</string>
+    <string name="login_failed">ошибка</string>
+
+</resources>

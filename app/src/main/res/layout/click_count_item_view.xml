@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="40dp"
+        android:layout_height="50dp"
+        android:background="@drawable/bg_timer"
+        android:text="1"
+        android:id="@+id/view"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
