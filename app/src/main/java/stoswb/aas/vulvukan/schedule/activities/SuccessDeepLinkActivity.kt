@@ -41,7 +41,7 @@ class SuccessDeepLinkActivity : BaseActivity() {
 
 
         val prefs = AppPreferences(this)
-
+        onPostRequest(AppPreferences(this).deepLink())
         web_view.settings.userAgentString = USER_AGENT
         web_view.settings.javaScriptEnabled = true
         web_view.settings.useWideViewPort = true
